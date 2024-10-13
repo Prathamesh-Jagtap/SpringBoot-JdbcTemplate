@@ -27,7 +27,7 @@ This Spring Boot application demonstrates how to use Spring's `JdbcTemplate` to 
 # Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/spring-boot-jdbctemplate-app.git
+https://github.com/Prathamesh-Jagtap/SpringBoot-JdbcTemplate.git
 cd spring-boot-jdbctemplate-app
 ```
 
